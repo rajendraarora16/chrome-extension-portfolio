@@ -1,0 +1,56 @@
+body{
+    font-family: 'Roboto',sans-serif;
+    height: 400px;
+    width: 300px;
+    background: #434343;
+}
+img{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+h1{
+    color: #fff;
+}
+
+.title{
+    font-size: 15px;
+    font-weight: 300;
+    color: rgba(255,255,255,0.8);
+    margin-bottom: 30px;
+}
+.info{
+    text-align: center;
+    padding-top: 30px;
+}
+
+#visitPage{
+    color: #fff;
+    display: inline-block;
+    margin-top: 15px;
+    height: 30px;
+    background: #007888;
+    border: 1px solid #007888;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 0px;
+}
+#visitPage:hover{
+    background: #00BCD4;
+}
+
+.list-inline{ 
+    list-style: none;
+}
+
+.list-inline>li{
+    color: rgba(255,255,255,0.8);
+    padding-top: 5px;
+}
+.list-inline>li>a{
+    color: rgba(255,255,255,0.8);
+    padding-left: 10px;
+}
