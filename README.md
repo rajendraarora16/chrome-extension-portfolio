@@ -1,5 +1,5 @@
 # chrome extension portfolio
-It shows portfolio in chrome browser as well with new version you can directly message using chrome extension. Hell yeah!
+It shows portfolio in chrome browser using chrome extension. Hell yeah!
 
 **SCREENSHOT**
 
